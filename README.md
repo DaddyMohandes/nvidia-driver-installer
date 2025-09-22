@@ -31,7 +31,7 @@ Make the script executable:
 
 ## 🧠 Requirements
 
- Bash shell
+ Bash or zsh Shell
 
 Root privileges (sudo)
 
