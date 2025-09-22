@@ -14,12 +14,12 @@ This is a simple Bash script that helps users quickly install NVIDIA drivers bas
 
    Clone or download this repository.
 
-Make the script executable:
+###Make the script executable:
 
  ```chmod +x nvidia-installer.sh```
 
     
- Run the script:
+ ####Run the script:
  
   ``` ./nvidia-installer.sh ```
 
