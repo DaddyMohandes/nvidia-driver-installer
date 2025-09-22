@@ -12,15 +12,17 @@ This is a simple Bash script that helps users quickly install NVIDIA drivers bas
  
 ## 🚀 How to Use
 
-   Clone or [Download](https://github.com/DaddyMohandes/nvidia-driver-installer/blob/main/nvidia-installer.sh) :
+Clone or [Download](https://github.com/DaddyMohandes/nvidia-driver-installer/blob/main/nvidia-installer.sh) :
+   
+  
   ```git clone https://github.com/DaddyMohandes/nvidia-driver-installer.git```
 
-###Make the script executable:
+Make the script executable:
 
  ```chmod +x nvidia-installer.sh```
 
     
- ####Run the script:
+ Run the script:
  
   ``` ./nvidia-installer.sh ```
 
