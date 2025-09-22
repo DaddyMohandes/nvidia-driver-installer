@@ -1,33 +1,34 @@
-🖥️ NVIDIA Driver Installer Script
+# 🖥️ NVIDIA Driver Installer Script
 
 This is a simple Bash script that helps users quickly install NVIDIA drivers based on their Linux distribution.
 
-📦 Supported Distributions
+## 📦 Supported Distributions
 
-    Debian (automatic installation)
+ Debian (automatic installation) 
+ 
+ Arch Linux (automatic installation)
+ 
+ Ubuntu (automatic installation)
+ 
+## 🚀 How to Use
 
-    Arch Linux (automatic installation)
+   Clone or download this repository.
 
-    Ubuntu (automatic installation)
+Make the script executable:
 
-🚀 How to Use
-
-    Clone or download this repository.
-
-    Make the script executable:
-
-    chmod +x nvidia-installer.sh
+ ```chmod +x nvidia-installer.sh```
 
     
-    Run the script:
-   ./nvidia-installer.sh
+ Run the script:
+ 
+  ``` ./nvidia-installer.sh ```
 
 
-🧠 Requirements
+## 🧠 Requirements
 
-    Bash shell
+ Bash shell
 
-    Root privileges (sudo)
+Root privileges (sudo)
 
-    Internet connection
+Internet connection
 
