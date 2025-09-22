@@ -6,11 +6,11 @@ This is a simple Bash script that helps users quickly install NVIDIA drivers bas
 
 ## 📦 Supported Distributions
 
- Debian
+ Debian ✅
  
- Arch Linux 
+ Arch Linux ✅
  
- Ubuntu 
+ Ubuntu ✅
  
 ## 🚀 How to Use
 
