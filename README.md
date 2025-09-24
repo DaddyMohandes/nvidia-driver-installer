@@ -28,6 +28,9 @@ Make the script executable:
  
   ``` ./nvidia-installer.sh ```
 
+ optional ( Not recommended, Made with Python for exercise )  : 
+
+ ``` python3 nvidia.py ```
 
 ## 🧠 Requirements
 
