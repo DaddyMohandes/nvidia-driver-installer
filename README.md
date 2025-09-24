@@ -40,3 +40,4 @@ Root privileges (sudo)
 
 Internet connection
 
+If you want to use the version written in Python, install Python too. ( Not recommended )
